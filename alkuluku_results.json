@@ -1,0 +1,31 @@
+{
+ "clockfield": {
+  "r": 0.5306,
+  "sigmas": {
+   "log2": -0.18,
+   "log3": -0.05,
+   "log4": -0.05,
+   "log5": -0.05,
+   "log7": 0.72,
+   "log8": 0.72
+  },
+  "n_above_4sigma": 0
+ },
+ "goe_control": {
+  "r": 0.5208,
+  "sigmas": {
+   "log2": -0.06,
+   "log3": -0.54,
+   "log4": 0.95,
+   "log5": 0.43,
+   "log7": 0.11,
+   "log8": -0.47
+  },
+  "n_above_4sigma": 0
+ },
+ "verdict": {
+  "A1_class": "GOE",
+  "A2_no_prime_peaks": true,
+  "miracle": false
+ }
+}
